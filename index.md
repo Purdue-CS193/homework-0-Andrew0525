@@ -1,3 +1,8 @@
+# Andrew McLain's First CS193 Homework
+
+-Instructors have taken the same CS courses I am taking
+-Provides useful information for CS courses
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -11,12 +16,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Andrew McLain's First CS193 Homework
+# Header 1
 ## Header 2
 ### Header 3
 
-- Instructors have taken the same CS courses I am taking
-- Provides useful information for CS courses
+- Bulleted
+- List
 
 1. Numbered
 2. List
