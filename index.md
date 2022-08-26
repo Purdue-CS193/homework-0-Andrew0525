@@ -1,6 +1,7 @@
 # Andrew McLain's First CS193 Homework
 
 -Instructors have taken the same CS courses I am taking
+
 -Provides useful information for CS courses
 
 ## Welcome to GitHub Pages
